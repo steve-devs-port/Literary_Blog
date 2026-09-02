@@ -863,7 +863,7 @@ footer{
 }
 
 footer::before{
-  content: "\2014  30 \2014";
+  content: "\2014  © 2026 Group 1 | Carlos P. Romulo: A Literary Dossier | Philippine Literature in English \2014";
   display: block;
   font-size: 1rem;
   letter-spacing: 0.3em;
